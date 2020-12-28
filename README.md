@@ -38,14 +38,14 @@ Since you have already worked on a project in X, why don't you try implementing 
 
 ## 4. What do you mean by a _project_ in Python? I have written some short example programs. Is that enough to participate?
 
-A project here means you should have spent some time in using programming in Python to accomplish some "interesting" outcome.
+A project here means you should have spent some time in programming in Python to accomplish some "interesting" outcome.
 
-While 
+This example Python program
 ```
 for i in range(10):
   print(i, "\n")
 ```
-uses Python to print 0 to 9 on new lines, it is not really that interesting. 
+prints 0 to 9 on new lines, and is not really that interesting. 
 
 We want you to show us what more you have done with Python. Examples can include writing Python scripts to automate small tasks on your computer, writing a small game in Python, writing a controller to move around a robot, etc.
 
@@ -72,6 +72,10 @@ Please refer to FAQ #3 for details on next steps.
 # How to submit my Python project
 Alright, if you've been through the above questions, and are eager to show off your Python project project with us, please follow these steps -- 
 
-1.
-2.
-3.
+1. Create an account on GitHub. GitHub is used by people to store and share source code. You can read more in [this tutorial on getting started with GitHub](https://guides.github.com/activities/hello-world/).
+2. Create a _public repository_ on your GitHub account called `data4good-application`.
+3. Upload your code in the repository `data4good-application`.
+4. Edit the `README.md` file in your `data4good-application` repository, and describe in a few lines -
+- what your program does
+- why you chose to submit this project.
+5. Once you have created this repository, [fill in this application](https://forms.google.com), and paste the URL of your `data4good-application` repository when submitting your application so that we can go through your work.
