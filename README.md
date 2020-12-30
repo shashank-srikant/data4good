@@ -73,9 +73,16 @@ Please refer to FAQ #3 for details on next steps.
 Alright, if you've been through the above questions, and are eager to show off your Python project project with us, please follow these steps -- 
 
 1. Create an account on GitHub. GitHub is used by people to store and share source code. You can read more in [this tutorial on getting started with GitHub](https://medium.com/@sauravbhagat_10426/how-to-upload-code-to-github-6db1c8ff56aa).
+
 2. Create a _public repository_ on your GitHub account called `data4good-application`.
-3. Upload your code in the repository `data4good-application`.
+
+3. Upload your code in your `data4good-application` repository. Upload your source file (.py extension) directly. 
+
 4. Edit the `README.md` file in your `data4good-application` repository, and describe in a few lines -
-- what your program does
+- what your program does.
+- what steps we need to take to reproduce the results of your program.
 - why you chose to submit this project.
-5. Once you have created this repository, [fill in this application](https://forms.google.com), and paste the URL of your `data4good-application` repository when submitting your application so that we can go through your work.
+
+See this [informative blog](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project) on the importance of good README files, and how to write an informative one.
+
+5. Once you have created your repository, [fill in this application](https://forms.google.com), and paste the URL of your `data4good-application` repository when submitting your application so that we can go through your work.
