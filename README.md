@@ -1,8 +1,8 @@
-# data4good
+# Data4Governance
 
 Hi! Welcome. 
 
-I hope you have watched [this little introduction video](https://youtube.com) which motivates what this iniatitive is all about.
+I hope you have watched [this little introduction video](https://www.youtube.com/watch?v=Q--K6ysJeQM) which motivates what this iniatitive is all about.
 
 For you to benefit the most from this initiative, we feel you ought to have worked on at least one small project in Python - anything that demonstrates the different aspects of programming and Python you have already explored.
 
@@ -13,10 +13,10 @@ Use this as an opportunity to show us what you have worked on in the past.
 Concretely, please upload **your favorite Python project/program, along with a short description of why that project is special to you** on your GitHub account, and share it with us. See the section **How to submit my Python project** below for details.
 
 # FAQs
-## 1. What will I learn from this `data4good` initiative? How is this relevant to me?
-Please watch [this little introduction video](https://youtube.com) first :-) We address the motivations there.
+## 1. What will I learn from this `Data4Governance` initiative? How is this relevant to me?
+Please watch [this little introduction video](https://www.youtube.com/watch?v=Q--K6ysJeQM) first :-) We address the motivations there.
 
-## 2. I am totally new to programming, but I'm interested in learning more about data science. I would like to participate in `data4good`.
+## 2. I am totally new to programming, but I'm interested in learning more about data science. I would like to participate in `Data4Governance`.
 Great! We would have loved for you to be a part of this iniatitive. 
 
 Unfortunately though, we do not currently have the required bandwidth to help you with your goals of learning both programming and data science.
@@ -74,15 +74,15 @@ Alright, if you've been through the above questions, and are eager to show off y
 
 1. Create an account on GitHub. GitHub is used by people to store and share source code. You can read more in [this tutorial on getting started with GitHub](https://medium.com/@sauravbhagat_10426/how-to-upload-code-to-github-6db1c8ff56aa).
 
-2. Create a _public repository_ on your GitHub account called `data4good-application`.
+2. Create a _public repository_ on your GitHub account called `data4governance-application`.
 
-3. Upload your code in your `data4good-application` repository. Upload your source file (.py extension) directly. 
+3. Upload your code in your `data4governance-application` repository. Upload your source file (.py extension) directly. 
 
-4. Edit the `README.md` file in your `data4good-application` repository, and describe in a few lines -
+4. Edit the `README.md` file in your `data4governance-application` repository, and describe in a few lines -
 - what your program does.
 - what steps we need to take to reproduce the results of your program.
 - why you chose to submit this project.
 
 See this [informative blog](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project) on the importance of good README files, and how to write an informative one.
 
-5. Once you have created your repository, [fill in this application](https://forms.google.com), and paste the URL of your `data4good-application` repository when submitting your application so that we can go through your work.
+5. Once you have created your repository, [fill in this application](http://bit.ly/D4GFellowship), and paste the URL of your `data4governance-application` repository when submitting your application so that we can go through your work.
